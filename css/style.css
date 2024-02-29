@@ -1,0 +1,19 @@
+/* Estilizando a caixa de input */
+input , select {
+    width: 300px;
+    padding: 10px;
+    border: 2px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+    color: #232323;
+    background-color: #ff6600;
+}
+
+body {
+    background-color: #232323;
+    color: #ccc;
+}
+
+label {
+    margin-bottom: 5px;
+}
