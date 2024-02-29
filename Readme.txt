@@ -1,6 +1,6 @@
 Esse projeto foi feito para uma atividade prática da Faculdade.
 Título da Prática:  Como usamos exception?
-Aula 14. 
+Aula 14 - Desenvolvimento Dinâmico
 
 Aluno: Crithian Campelo
 Turmda de ADS 2024.1
